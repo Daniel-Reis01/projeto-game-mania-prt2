@@ -1,0 +1,20 @@
+*{
+    
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(57, 43, 250);
+    height: 160px;
+}
+.container-grid{
+    width: 1200px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.container-grid p{
+    font-size: 20px;
+
+}

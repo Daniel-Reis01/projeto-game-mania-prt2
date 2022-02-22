@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: #2323dd;
+    width: 1600px;
+    height:180px;
+    display: flex;
+    justify-content: space-between;
+}
+.container-grid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.container-grid p{
+    margin-left: 400px;
+    text-transform: uppercase;
+}
+.cadastro{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+ 
